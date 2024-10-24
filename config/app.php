@@ -1,6 +1,6 @@
 <?php
 
-	const APP_URL="http://localhost:8080/ProyectosPHP/CRUD/";
+	const APP_URL="sql309.infinityfree.com";
 	const APP_NAME="CRUD Dasboard POO";
 	const APP_SESSION_NAME="CRUD";
 
