@@ -1,1 +1,9 @@
-server.php
+
+# Ignorar configuraciones locales de XAMPP
+/xampp/
+
+# Ignorar el archivo de configuración de entorno
+/config/.server
+
+# Ignorar archivos temporales o de logs
+
